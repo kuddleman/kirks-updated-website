@@ -114,6 +114,7 @@
 			<div class="row">
 				<div class="col-md-12 text-center">
 					<div class="page_title">
+					<br><br><br><br>
 						<h2>About</h2>
 					</div>
 				</div>
@@ -134,7 +135,7 @@
 							<p>No matter how you identify as a man who loves men and no matter what relationship configuration you are in or desire, you are welcome to bring all parts of yourself to life coaching.</p>
 							<p> Kirk’s personal spiritual healing journey, his 17-year professional experience as a former psychotherapist, his work as an integrative bodyworker/healer, men’s community builder, conscious activist and spiritual teacher allow him to hold a safe a sacred space for you to explore your feelings of “wanting more.”</p>
 							<p>What are the desires of your heart and what story needs to change for you as you hunger for more? This describes the essence of Body Story Life Coaching.</p>
-
+							<p>Dr Kirk Prine is based in San Francisco.</p>
 
 						</div>
 						<!--END ABOUT SECTION  TEXT-->
@@ -236,7 +237,7 @@
 					</ul>
 					<p>&copy; DR KIRK PRINE | All Rights Reserved</p>
 					<p><a href="mailto:kirkprine@fleshandspirit.org?Subject=I%20am%20ready" style="color: white;" target="_top">kirkprine@fleshandspirit.org</a></p>
-					<p>Telephone: 415.440.1561</p>
+					<p>Telephone: 415-359-5824</p>
 				</div>
 			</div>
 		</div>

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+        }
+        body {
+            background-color: transparent;
+            font-family: 'Open Sans', sans-serif;
+        }
+        .grid {
+            width: 960px;
+            margin: 0px;
+            background-color: white;
+            padding: 0px;
+        }
+        h4 {
+            color: navy;
+        }
+        table {
+            margin-top: 15px;
+            margin-bottom: 15px;
+        }
+        table, tr, th, td {
+            border: 1px solid lightGray;
+            border-collapse: collapse;
+            font-family: 'Open Sans', sans-serif;
+        }
+        th {
+            font-size: 15px;
+            font-weight: normal;
+            line-height: 25px;
+            padding: 5px;
+            text-align: left;
+            color: darkred;
+        }
+        td {
+            font-size: 15px;
+            font-weight: normal;
+            line-height: 25px;
+            padding: 5px;
+            text-align: left;
+            color: darkgreen;
+        }
+    </style>
+</head>
+<body>
+    <div class="grid">
+        <table>
+            <tr>
+                <th>Name</th>
+                <td>%name%</td>
+            </tr>
+            <tr>
+                <th>E-mail</th>
+                <td>%email%</td>
+            </tr>
+            <tr>
+                <th>Message</th>
+                <td>%message%</td>
+            </tr>                        
+        </table>
+    </div>
+</body>
+</html>
